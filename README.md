@@ -1,4 +1,4 @@
-# TaxSuivi : Gestion fiscale pour commerçants camerounais
+# FiscCam : Gestion fiscale pour commerçants camerounais
 
 Application web progressive (PWA) permettant aux commerçants du Cameroun de suivre leurs obligations fiscales, leurs échéances et l'ensemble de leurs paiements d'impôts et taxes.
 
